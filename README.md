@@ -1,4 +1,4 @@
-# SQL & PL/SQL Complete Tutorial
+# MS-SQL  Complete Tutorial
 
 A structured collection of **SQL and PL/SQL examples** covering database creation, data manipulation, queries, constraints, joins, subqueries, views, indexes, transactions, security, and advanced PL/SQL programming.
 
